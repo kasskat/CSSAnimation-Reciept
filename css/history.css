@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    background-color: rgb(248, 242, 214);
+}
+
+.button{
+    background-color: rgb(235, 178, 114);
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+    width: 100px;
+    height: 50px;
+    border-radius: 25%;
+    border-color: rgb(201, 127, 42);
+}
+
+.Zrazy2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 10%;
+}
+
+.history{
+    font-family: 'Open Sans', sans-serif;
+    font-size: larger;
+    max-width: 639px;
+    margin-left: 10%;
+}
+
+.footer{
+    margin-top: 50px;
+    margin-left: 10%;
+    font-family: 'Open Sans', sans-serif;
+}
